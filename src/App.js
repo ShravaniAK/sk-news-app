@@ -7,7 +7,8 @@ import Search from './components/Search'
 import {categories} from './constants/index'
 
 function App() {
-  const apiKey = "KIgPBxO8nLsSd65Ts2xAorFhyx4Qay6F";
+  // const apiKey = 'KIgPBxO8nLsSd65Ts2xAorFhyx4Qay6F';
+  const apiKey = 'tbpXMX6mu8av6Ew7Ehb05J4RttEvvVrp';
 
   return (
     <>
